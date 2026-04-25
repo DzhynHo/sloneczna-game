@@ -1,4 +1,4 @@
-# Milestone 3 – Prototyp funkcjonalny (Core Gameplay)
+# Milestone 2 – Prototyp funkcjonalny (Core Gameplay)
 
 **Data zakończenia:** 14.04.2026  
 **Status:** Zrealizowany  

@@ -1,0 +1,4 @@
+https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271 - Animation Asset
+https://assetstore.unity.com/packages/3d/animations/human-melee-animations-free-165785 - Animation Attack
+https://assetstore.unity.com/packages/templates/systems/multiplayer-fps-template-259143 - Animation first person and third person multiplayer shooter games
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/npc-casual-set-00-326131 - nps casual set

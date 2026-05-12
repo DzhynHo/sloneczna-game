@@ -1,7 +1,7 @@
 # Milestone 5 – Implementacja kluczowych mechanik
 
 **Data zakończenia:** 08.05.2026  
-**Status:** 📅 Planowany  
+**Status:** Zrealizowany 
 **Cel etapu:** Zamknięcie pełnej pętli gry (**Core Loop**) poprzez dodanie systemów ekonomicznych, progresji oraz usprawnienie systemów bazowych.
 
 ---
